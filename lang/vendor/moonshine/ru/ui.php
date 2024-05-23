@@ -1,0 +1,116 @@
+<?php
+
+return [
+    'profile' => 'Профиль',
+    'dashboard' => 'Панель',
+    'add' => 'Добавить',
+    'create' => 'Создать',
+    'edit' => 'Редактировать',
+    'show' => 'Просмотр',
+    'save' => 'Сохранить',
+    'saved' => 'Сохранено',
+    'saved_error' => 'Произошла ошибка',
+    'filters' => 'Фильтры',
+    'search' => 'Поиск',
+    'reset' => 'Сбросить',
+    'total' => 'Всего',
+    'deleted' => 'Удалено',
+    'delete' => 'Удалить',
+    'deleting' => 'Удаление',
+    'download' => 'Скачать',
+    'export' => 'Экспорт',
+    'import' => 'Импорт',
+    'cancel' => 'Отмена',
+    'confirm' => 'Подтвердить',
+    'close' => 'Закрыть',
+    'confirm_message' => 'Вы уверены, что хотите удалить запись?',
+    'back' => 'Вернуться назад',
+    'more' => 'Перейти',
+    'all_sections' => 'Все разделы',
+    'file' => 'Файл',
+    'loading' => 'Загрузка ...',
+    'notfound' => 'Пока записей нет',
+    'collapse_menu' => 'Свернуть меню',
+    '404' => 'Хьюстон! У нас проблема - страница не найдена',
+    'copied' => 'Скопировано!',
+    'notifications' => [
+        'title' => 'Уведомления',
+        'mark_as_read_all' => 'Все прочитано',
+        'mark_as_read' => 'Прочитано',
+    ],
+    'login' => [
+        'title' => 'Добро пожаловать в :moonshine_title!',
+        'description' => 'Пожалуйста, войдите в свою учетную запись',
+        'authorization' => 'Авторизация',
+        'remember_me' => 'Запомнить',
+        'login' => 'Войти',
+        'logout' => 'Выйти',
+        'username' => 'Логин',
+        'email' => 'E-mail',
+        'password' => 'Пароль',
+        'or_socials' => 'или',
+    ],
+    'resource' => [
+        'system' => 'Система',
+        'role' => 'Роли',
+        'name' => 'Имя',
+        'email' => 'E-mail',
+        'phone' => 'Телефон',
+        'password' => 'Пароль',
+        'repeat_password' => 'Повторите пароль',
+        'avatar' => 'Аватар',
+        'created_at' => 'Дата создания',
+        'admins_title' => 'Администраторы и супервайзеры',
+        'role_title' => 'Роли',
+        'role_name' => 'Название',
+
+        'main_information' => 'Основная информация',
+        'change_password' => 'Изменить пароль',
+
+        'link_socialite' => 'Привязать аккаунты',
+        'linked_socialite' => 'Привязанные аккаунты',
+
+        'queued' => 'Поставлен в очередь',
+
+        'export' => [
+            'exported' => 'Экспортирован',
+        ],
+
+        'import' => [
+            'imported' => 'Импортирован',
+            'file_required' => 'Файл обязателен',
+            'extension_not_supported' => 'Расширение файла не поддерживается'
+        ],
+        'banners' => 'Баннеры',
+        'main' => 'Глвная',
+        'users' => 'Пользователи',
+        'plans' => 'Планы подписок',
+        'tickets' => 'Обращения',
+        'purchase_history' => 'История покупок',
+        'entyties' => 'Сущности',
+        'creatted_pdfs' => 'PDF',
+        'selecions' => 'Подборки',
+        'notifications' => [
+            'title' => 'Рассылка',
+            'push' => 'Push уведомления'
+        ],
+        'promocodes' => 'Промокоды (dev)',
+        'my-promocodes' => 'Мои промокоды',
+        'supervisors' => 'Супервайзеры',
+        'scrappers' => 'Парсинг',
+
+        'actions' => [
+            'send_push_notification' => 'Отправить Push-уведомление',
+            'send_personal_push_notification' => 'Отправка персонального Push-уведомление',
+            'subscription_activated' => 'Доступ предоставлен',
+            'give_access' => 'Предоставить доступ',
+            'close_access' => 'Закрыть доступ',
+            'push_notification_sent' => 'Push-уведомление отправлено',
+            'download_log' => 'Скачать лог',
+        ],
+
+        'fields' => [
+            'date_expired' => 'Дата окончания доступа',
+        ],
+    ]
+];

@@ -1,0 +1,182 @@
+Commercial offer	Коммерческое предложение
+Contacts	Контакты
+Commercial offer from	Коммерческое предложение от
+Page	Страница
+Location	Город
+Amenities	Удобства
+Type	Тип
+Purpose	Вид сделки
+Property Age	Возраст недвижимости
+Furnishing	Мебель
+Completion	Готовность
+Size	Площадь
+Bedrooms	Спальни
+Bathrooms	Ванные комнаты
+Price / SqFt	Цена за фут²
+Completion	Готовность
+Apartment	Апартаменты
+Sale	Продажа
+Unfurnished	Без мебели
+Furnished	С мебелью
+Ready	Готов
+Rent	Аренда
+1 Year	1 год
+2 Year	2 года
+3 Year	3 года
+4 Year	4 года
+5 Year	5 лет
+6 Year	6 лет
+7 Year	7 лет
+8 Year	8 лет
+9 Year	9 лет
+10 Year	10 лет
+11 Year	11 лет
+12 Year	12 лет
+13 Year	13 лет
+14 Year	14 лет
+15 Year	15 лет
+16 Year	16 лет
+17 Year	17 лет
+18 Year	18 лет
+19 Year	19 лет
+20 Year	20 лет
+Central A/C & Heating	Центральный кондиционер и отопление
+Maids Room	Комната для прислуги
+Balcony	Балкон
+Private Garden	Частный сад
+Shared Pool	Общий бассейн
+Security	Безопасность
+Day Care Center	Детский сад
+First Aid Medical Center	Медицинский пункт
+Broadband Internet	Широкополосный Интернет
+Satellite / Cable TV	Спутниковое / Кабельное ТВ
+Business Center	Бизнес центр
+Intercom 	Внутренняя связь
+Kids Play Area	Детская игровая площадка
+Reception / Waiting Room	Ресепшн / Зал ожидания
+Maintenance Staff	Обслуживающий персонал
+CCTV Security	Видеонаблюдение
+Cafeteria or Canteen	Кафетерий или столовая
+Cleaning Services	Клининговые услуги
+Lobby in Building	Лобби в здании
+Waste Disposal	Утилизация отходов
+Conference Room	Конференц-зал
+Office	Офис
+Commercial Plot	Коммерческий участок
+Covered Parking	Крытая парковка
+Shop	Магазин
+sqft	фут²
+Private Gym	Частный тренажерный зал
+Private Jacuzzi	Частное джакузи
+Shared Spa	Общий спа-центр
+Service Elevators	Сервисные лифты
+Prayer Room	Молитвенная комната
+Laundry Room	Прачечная
+Facilities for Disabled	Удобства для инвалидов
+Barbeque Area	Зона барбекю
+Off-Plan	Стадия строительства
+Pets Allowed	Домашние животные разрешены
+All in Residential	Все в жилом секторе
+Villa	Вилла
+Townhouse	Таунхаус
+Penthouse	Пентхаус
+Residential Building	Жилой дом
+Villa Compound	Комплекс вилл
+Residential Floor	Жилой этаж
+Daily Rent	Посуточная аренда
+Studio	Студия
+Monthly Rent	Месячная оплата
+Electricity Backup	Резервное электричество
+Built in Kitchen Appliances	Встроенная кухонная техника
+Built in Wardrobes	Встроенные шкафы
+ATM Facility	Банкомат
+Concierge Service	Консьерж-сервис
+Walk-in Closet	Гардеробная
+Storage Areas	Складские помещения
+View of Water	Вид на воду
+Study	Рабочий кабинет
+Double Glazed Windows	Окна с двойным остеклением
+Shared Kitchen	Общая кухня
+Private Room	Приватная комната
+Room Type	Тип номера
+Attached Bathroom	Пристроенная ванная комната
+No	Нет
+Preferred Tenants	Предпочитаемые арендаторы
+Number of Tenants	Количество арендаторов
+Don't Mind	Не против
+Yes	Да
+Monthly	в месяц
+yearly	в год
+weekly	в неделю
+daily	в день
+Apartments	Апартамент
+Townhouses	Таунхаус
+Villa Compounds	Комплекс вилл
+Residential Plot	Участок
+Residential Building	Дом
+Villa	Вилла
+Penthouse	Пентхаус
+Hotel Apartment	Отель-апартамент
+Residential Floor	Этаж
+Offices	Офис
+Warehouse	Склад
+Commercial Villa	Вилла
+Commercial Plot	Комм. участок
+Commercial Building	Здание
+Industrial Land	Пром. участок
+Showroom	Шоурум
+Shop	Магазин
+Labour Camp	Трудовой лагерь
+Bulk Unit	Юниты оптом
+Commercial Floor	Этаж
+Factory	Фабрика
+Mixed Use Land	Земля смешанного использования
+Other Commercial	Другое
+Townhouses	Таунхаус
+for sale	продажа
+for rent	аренда
+unfurnished	без мебели
+furnished	с мебелью
+Property size	Площадь
+Central A/C	Центральный кондиционер
+Children's Play Area	Детская игровая площадка
+View of Landmark	Вид на достопримечательность
+Barbecue Area	Зона барбекю
+Office Space	Офисное помещение
+Shared Gym	Общий тренажерный зал
+Conference room	Конференц-зал
+Yearly	в год
+Bungalow	Бунгало
+Compound	Составной
+Office Space	Офисное помещение
+Retail	Розничная торговля
+Warehouse	Склад
+Shop	Магазин
+Villa	Вилла
+Show Room	Выставочный зал
+Full Floor	Полный этаж
+Half Floor	Половина этажа
+Whole Building	Все здание
+Land	Земля
+Bulk Sale Unit	Единица оптовой продажи
+Factory	Фабрика
+Hotel & Hotel Apartment	Отель и апартаменты в отеле
+Labor Camp	Трудовой лагерь
+Staff Accommodation	Размещение персонала
+Business Centre	Бизнес центр
+Co-working space	Коворкинг
+Farm	Ферма
+Townhouse	Таунхаус
+Penthouse	Пентхаус
+Duplex	Дуплекс
+Bulk Sale Unit	Единица оптовой продажи
+Vastu-compliant	Соответствует Васту
+Dining in building	Обед в здании
+Information	Информация
+Source link:	Ссылка на источник:
+Maid Service	Услуги горничной
+Concierge	Консьерж
+Maid Service	Услуги горничной
+Kitchen Appliances	Кухонные принадлежности
+Children's Pool	Детский бассейн
+Sell	Продажа

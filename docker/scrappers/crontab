@@ -1,0 +1,1 @@
+0 */3 * * * cd /var/www/scrappers && php propertyfinder.php >> /dev/null 2>&1
